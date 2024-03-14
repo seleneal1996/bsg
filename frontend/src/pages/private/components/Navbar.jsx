@@ -124,11 +124,9 @@ const Navbar = () => {
             <li className="nav-item dropdown d-flex profile-info one ">
               <div className="d-flex align-items-center">
                 <p>
-                  Ramdon
-                  {/*  {perfil && perfil[0].dusuario} <br />{" "} */}
+                  Selene
                   <span className=" ">
-                    Ramdon
-                    {/* {perfil && perfil[0].cargo} <br />{" "} */}
+                  B.
                   </span>
                 </p>
               </div>
